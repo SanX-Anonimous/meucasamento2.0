@@ -23,12 +23,12 @@ Arquivos incluídos:
 
 ### Nome do casal
 Edite no arquivo `index.html`:
-- `Sanx`
-- `Sua Amada`
+- `Wyderson Faraco`
+- `Dieli Bastos`
 
 ### Data do casamento
 Edite no arquivo `script.js`:
-- `2024-04-22T00:00:00`
+- `2024-04-23T00:00:00`
 
 ### Carta de amor
 Edite a seção `Uma carta de amor` no `index.html`.
